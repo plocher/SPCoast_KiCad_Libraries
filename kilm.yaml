@@ -1,0 +1,11 @@
+capabilities:
+  footprints: true
+  symbols: true
+  templates: true
+created_with: kilm
+description: SPCoast KiCad library
+env_var: KICAD_SPCOAST_LIB
+name: SPCoast
+type: github
+updated_with: kilm
+version: 1.0.0

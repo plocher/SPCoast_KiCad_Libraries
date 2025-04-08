@@ -1,0 +1,10 @@
+{
+  "name": "SPCoast.3dshapes",
+  "description": "KiCad 3D model library SPCoast.3dshapes",
+  "type": "cloud",
+  "version": "1.0.0",
+  "env_var": "KICAD_SPCOAST_3DMODELS",
+  "model_count": 21,
+  "created_with": "kilm",
+  "updated_with": "kilm"
+}
