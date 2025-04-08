@@ -1,0 +1,80 @@
+(footprint "SILK_Logo-SPCoast"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "Ref**"
+		(at 0.254 1.524 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "fef5d82f-df1e-43a8-921a-7a70e8f759b6")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Val**"
+		(at 0.254 3.302 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6e19eb9b-a0f7-4208-8011-705c24c78fd2")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7037ad9b-1772-4eb3-a052-98fdd9cbf34a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "aa66e78f-ff5c-4437-923e-8aa6d75576b3")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "60e1539c-1b17-44b0-8297-a16f43694f44")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr exclude_from_pos_files exclude_from_bom allow_missing_courtyard dnp)
+	(fp_text user "SPCoast"
+		(at -0.127 -0.127 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "dd5c3b4d-9f56-424e-baff-6bb181ae4be2")
+		(effects
+			(font
+				(size 1.1684 1.1684)
+				(thickness 0.1016)
+			)
+			(justify left bottom)
+		)
+	)
+)

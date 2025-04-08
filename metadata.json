@@ -1,0 +1,31 @@
+{
+    "$schema": "https://go.kicad.org/pcm/schemas/v1",
+    "name": "SPCoast KiCad Parts Libraries",
+    "description": "SPCoast.com John Plocher",
+    "description_full": "Model Railroad and IoT projects",
+    "identifier": "com.spcoast.jplocher.kicad-parts-library",
+    "type": "library",
+    "author": {
+        "name": "John Plocher",
+        "contact": {
+            "web": "https://SPCoast.com"
+        }
+    },
+    "maintainer": {
+        "name": "John Plocher",
+        "contact": {
+            "web": "https://SPCoast.com"
+        }
+    },
+    "license": "MIT",
+    "resources": {
+    },
+    "versions": [
+        {
+            "version": "1.0",
+            "status": "stable",
+            "kicad_version": "8.0"
+        }
+    ]
+}
+

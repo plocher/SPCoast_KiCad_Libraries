@@ -1,0 +1,9 @@
+# Library Descriptions for KiCad
+
+# Symbol library descriptions
+symbols:
+  Symbols_library: "SPCoast KiCad symbol library"
+
+# Footprint library descriptions
+footprints:
+  Footprints_library: "SPCoast KiCad footprint library"

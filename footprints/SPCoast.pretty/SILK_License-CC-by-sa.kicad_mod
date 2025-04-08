@@ -1,0 +1,106 @@
+(footprint "SILK_License-CC-by-sa"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Creative Commons License")
+	(property "Reference" "Ref**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "d9a72211-4f99-4dbe-8b57-c72584ee6f40")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Val**"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "dbe231ba-8edc-417a-9790-e71af4e2b786")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "734d969f-ee98-4e43-b8b9-db69aa6af8b0")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "76dde5ce-20d1-4026-86cb-1a4888eccb65")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b452d14e-4bbe-448f-9c1f-16fd835e3af9")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_text user "Creative Commons License"
+		(at -0.254 -4.318 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "4a055862-6576-43e5-a28d-5525a745c2ce")
+		(effects
+			(font
+				(size 1.016 1.016)
+				(thickness 0.0381)
+			)
+			(justify left)
+		)
+	)
+	(fp_text user "Released under the Creative Commons Attribution Share-Alike 3.0 License"
+		(at -0.254 -1.778 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "a37e4905-7702-461f-92e3-bb46aa0bf35a")
+		(effects
+			(font
+				(size 1.016 1.016)
+				(thickness 0.0381)
+			)
+			(justify left)
+		)
+	)
+	(fp_text user "http://creativecommons.org/licenses/by-sa/3.0"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "d5494a2b-1c9a-413a-9da5-2f630a540ce5")
+		(effects
+			(font
+				(size 1.016 1.016)
+				(thickness 0.0381)
+			)
+			(justify left)
+		)
+	)
+)

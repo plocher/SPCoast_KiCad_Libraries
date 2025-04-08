@@ -1,0 +1,132 @@
+(footprint "SILK_Label-CA65"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "CALIFORNIA PROPOSITION 65 WARNING WARNING: This product contains chemicals known to the State of California to cause cancer and birth defects or other reproductive harm. California law requires this warning to be  given to customers in the State of California")
+	(property "Reference" "Ref**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "d9a72211-4f99-4dbe-8b57-c72584ee6f40")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Val**"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "dbe231ba-8edc-417a-9790-e71af4e2b786")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "734d969f-ee98-4e43-b8b9-db69aa6af8b0")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "76dde5ce-20d1-4026-86cb-1a4888eccb65")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b452d14e-4bbe-448f-9c1f-16fd835e3af9")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_text user "California law requires this warning to be  given to customers"
+		(at 0 1.27 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "45aad41d-ba07-469a-95a1-820928197884")
+		(effects
+			(font
+				(size 1.016 1.016)
+				(thickness 0.0381)
+			)
+			(justify left)
+		)
+	)
+	(fp_text user "in the State of California"
+		(at 0 2.54 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "45f03164-d95b-44d1-a967-d0b4538d9ae9")
+		(effects
+			(font
+				(size 1.016 1.016)
+				(thickness 0.0381)
+			)
+			(justify left)
+		)
+	)
+	(fp_text user "   CALIFORNIA PROPOSITION 65 WARNING"
+		(at 3.81 -4.064 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "4a055862-6576-43e5-a28d-5525a745c2ce")
+		(effects
+			(font
+				(size 1.016 1.016)
+				(thickness 0.0381)
+			)
+			(justify left)
+		)
+	)
+	(fp_text user "  This product contains chemicals known to the State of California"
+		(at -1.524 -1.27 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "a37e4905-7702-461f-92e3-bb46aa0bf35a")
+		(effects
+			(font
+				(size 1.016 1.016)
+				(thickness 0.0381)
+			)
+			(justify left)
+		)
+	)
+	(fp_text user "to cause cancer and birth defects or other reproductive harm."
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "d5494a2b-1c9a-413a-9da5-2f630a540ce5")
+		(effects
+			(font
+				(size 1.016 1.016)
+				(thickness 0.0381)
+			)
+			(justify left)
+		)
+	)
+)

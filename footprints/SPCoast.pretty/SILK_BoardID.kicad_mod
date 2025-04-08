@@ -1,0 +1,100 @@
+(footprint "SILK_BoardID"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 3 -6 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "07504882-06ae-4050-b1db-3bbc379d3782")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "ProjectName"
+		(at -0.77 0.175 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "e6605e70-0a25-41c2-be21-a89ea272cf47")
+		(effects
+			(font
+				(size 4 4)
+				(thickness 0.3)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "17bc0ecd-e7e6-4c25-bec6-cd28ecf3850e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a48f2036-186d-4c3f-b12b-f9ba3784933e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9e465e2b-b2d7-4ef0-9674-c73ef3d49f5c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Author" "John Plocher"
+		(at 19 2 0)
+		(layer "F.SilkS")
+		(uuid "edfeab94-6b2d-460e-8743-cd46a828da92")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Date" "2024.09"
+		(at 32.5 2 0)
+		(layer "F.SilkS")
+		(uuid "aab11f12-bba7-4e30-a5d0-9436ff3b6378")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Version" "v1.0A"
+		(at 4 2 0)
+		(layer "F.SilkS")
+		(uuid "9e52a897-6e81-4431-b68b-51bc89bface5")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.3)
+			)
+		)
+	)
+)
